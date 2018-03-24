@@ -1,6 +1,6 @@
 # User's guide to set up Angular CI on Jenkins from Git to S3 with tests
 
-**1. Add webhook to your github repository/branch (Our Jenkins server now: http://195.228.147.126:9090/github-webhook)** 
+**1. Add webhook to your github repository/branch 
 
 **2. Login to Jenkins**
 
